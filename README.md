@@ -1,2 +1,2 @@
 # SQL
-SQL code
+Here is my SQL code tips&tricks
